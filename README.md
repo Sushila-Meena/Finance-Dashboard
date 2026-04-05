@@ -403,6 +403,7 @@ Insights auto-update
 
 
 
+
  ## Role Simulation
 Use the Role Switcher dropdown to switch between Viewer and Admin roles
 Admin can add transactions; Viewer can only view data
