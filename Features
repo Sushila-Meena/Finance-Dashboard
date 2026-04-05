@@ -1,0 +1,31 @@
+Dashboard Overview
+Summary cards for Total Balance, Income, and Expenses
+Line chart showing balance trends
+Pie chart showing spending breakdown by category
+Transactions
+View all transactions with date, category, type, and amount
+Admin role can add new transactions
+Simple search and filtering
+Role-Based UI
+Viewer: Can only view data
+Admin: Can view and add transactions
+Easily switch roles using the dropdown for demonstration
+Insights Section
+Highlights highest spending category
+Monthly comparisons and other key observations
+Responsive Design
+Works on mobile, tablet, and desktop
+Clean, modern UI built with Tailwind CSS
+State Management
+Managed using React Context
+Handles transactions, filters, and selected roles
+Charts & Visualization
+Interactive line chart for trends
+Interactive pie chart for category breakdown
+Built using Recharts
+Tech Stack
+Frontend: React, JSX
+Styling: Tailwind CSS
+Charts: Recharts
+State Management: React Context
+Bundler: Vite
