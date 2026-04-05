@@ -63,7 +63,7 @@ Bundler: Vite
 
  ## Setup Instructions
 Clone the repository:
-git clone https://github.com/yourusername/finance-dashboard.git
+git clone https://github.com/Sushila-Meena/finance-dashboard.git
 cd finance-dashboard
 Install dependencies:
 npm install
