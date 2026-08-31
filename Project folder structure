@@ -1,0 +1,21 @@
+finance-dashboard/
+├─ node_modules/
+├─ public/
+│  └─ index.html
+├─ src/
+│  ├─ components/
+│  │  ├─ Charts.jsx
+│  │  ├─ Insights.jsx
+│  │  ├─ RoleSwitcher.jsx
+│  │  ├─ SummaryCards.jsx
+│  │  └─ Transactions.jsx
+│  ├─ context/
+│  │  └─ AppContext.jsx
+│  ├─ pages/
+│  │  └─ Dashboard.jsx
+│  └─ index.css
+├─ package.json
+├─ tailwind.config.js
+├─ postcss.config.cjs
+├─ vite.config.js
+└─ README.md
